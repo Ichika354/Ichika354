@@ -17,14 +17,6 @@ Welcome to my GitHub! I’m passionate about building scalable backend systems, 
 - **Relational**: MySQL, PostgreSQL
 - **NoSQL**: MongoDB
 
----
-
-## 📊 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 🤝 **Let's Connect**
 
