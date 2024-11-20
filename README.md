@@ -4,6 +4,8 @@
 
 Welcome to my GitHub! I’m passionate about building scalable backend systems, crafting clean code, and delivering impactful solutions using cutting-edge technologies. 🚀
 
+![Funny Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ---
 
 ## 💻 **Tech Stack**
@@ -27,3 +29,5 @@ Welcome to my GitHub! I’m passionate about building scalable backend systems, 
 ---
 
 💡 _"Coding is not just a job, it's a journey to solve real-world problems."_ ✨
+
+![Cute Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
