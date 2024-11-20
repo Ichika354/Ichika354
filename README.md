@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ichika354.
 
 🎯 **Full-Stack Developer | Backend Specialist | Open Source Contributor**
 
@@ -15,34 +15,7 @@ Welcome to my GitHub! I’m passionate about building scalable backend systems, 
 
 ### Database
 - **Relational**: MySQL, PostgreSQL
-- **NoSQL**: MongoDB, Redis
-
-### DevOps & Tools
-- Docker, Kubernetes, GitHub Actions
-- AWS (EC2, S3, RDS), DigitalOcean
-
----
-
-## 🌟 **Featured Projects**
-
-### 🛒 [E-Commerce API](https://github.com/yourusername/ecommerce-api)
-An end-to-end backend solution for e-commerce platforms:
-- Built with **Node.js** and **Express.js**
-- Uses **MongoDB** for product and order management
-- JWT-based authentication system
-- API documentation with **Swagger**
-
-### 🧾 [Billing System](https://github.com/yourusername/billing-system)
-A powerful billing and subscription management tool:
-- Developed with **Laravel** and **MySQL**
-- Supports multiple payment gateways (PayPal, Stripe)
-- Multi-language support with **Blade Templates**
-
-### ⚡ [GoTasker](https://github.com/yourusername/gotasker)
-A lightweight, high-performance task management system:
-- Built using **Golang** with **Goroutines**
-- Implements **Redis** for real-time updates
-- Fully Dockerized for scalable deployment
+- **NoSQL**: MongoDB
 
 ---
 
