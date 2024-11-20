@@ -35,7 +35,3 @@ Welcome to my GitHub! I’m passionate about building scalable backend systems, 
 <div align="center">
   💡 _"Coding is not just a job, it's a journey to solve real-world problems."_ ✨
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cute Animation" width="400"/>
-</div>
